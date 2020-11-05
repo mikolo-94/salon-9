@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MillerBanner';
+  src: local('MillerBanner'), url("./fonts/Font Bureau - MillerBanner Light.otf") format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

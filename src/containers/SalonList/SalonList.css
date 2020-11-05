@@ -1,0 +1,124 @@
+.Container {
+  width: 375px;
+  border: 1px solid #c8c3c7;
+}
+.Bar {
+  height: 64px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.9);
+  border-bottom: solid 0.5px #b69f58;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ViewTitle {
+  font-family: MillerBanner;
+  font-size: 22px;
+  font-weight: 300;
+  color: #202020;
+}
+
+.FilterMenu {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 0.5px #b69f58;
+  font-family: HelveticaNeue-Light;
+  font-size: 15px;
+  font-weight: 300;
+  color: #202020;
+}
+
+a {
+  text-decoration: none;
+}
+.FilterDropdown {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  border-bottom: solid 0.5px #b69f58;
+}
+.FilterInput {
+  width: 50px;
+  margin-left: 15px;
+}
+
+.ListRow {
+  border-bottom: 2px solid #eeeeee;
+  margin-right: 15px;
+  margin-left: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.TimeSlot {
+  padding-top: 20px;
+  font-size: 15px;
+  color: #202020;
+}
+
+.Middle {
+  padding-top: 17px;
+}
+
+.SalonTitle {
+  font-family: MillerBanner;
+  font-size: 20px;
+  font-weight: 300;
+  color: #202020;
+  margin-top: 0;
+  margin-bottom: 13px;
+}
+
+.Rating {
+  align-items: center;
+  display: flex;
+}
+.Rating img {
+  padding-right: 4px;
+  padding-top: 1px;
+}
+
+.RatingQuantity {
+  padding-left: 4px;
+  font-size: 11px;
+  color: #656565;
+  font-family: HelveticaNeue-Light;
+}
+
+.Address {
+  font-family: HelveticaNeue-Light;
+  font-size: 15px;
+  color: #666666;
+}
+
+.Price {
+  padding-top: 20px;
+}
+
+.ItemPrice {
+  margin-top: 0;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  text-align: right;
+  color: #202020;
+  font-weight: normal;
+}
+
+.TimeLength {
+  font-family: HelveticaNeue-Light;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: right;
+  color: #666666;
+}
+
+.Right {
+  float: right;
+}

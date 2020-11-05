@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Sax & Fön",
+    "rating": 4,
+    "ratingQuantity": 32,
+    "phone": "08-522 389 20",
+    "website": "https://salongweb.se",
+    "description": "Lorem ipsum very long text......",
+    "backgroundImage": "background.jpg",
+    "address": {
+      "street": "Rådmansgatan 46",
+      "postalCode": "113 57",
+      "city": "Stockholm"
+    },
+    "availableTimeSlots": [
+      {
+        "time": "12:00",
+        "length": "30",
+        "price": 32000
+      }
+    ],
+    "openingHours": {
+      "Monday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Tuesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Wednesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Thursday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Friday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Saturday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Sunday": {
+        "open": "09.00",
+        "closing": "19.00"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hårizont",
+    "rating": 4,
+    "ratingQuantity": 32,
+    "phone": "08-522 389 20",
+    "website": "https://salongweb.se",
+    "description": "Lorem ipsum very long text......",
+    "backgroundImage": "./background.jpg",
+    "address": {
+      "street": "Rådmansgatan 46",
+      "postalCode": "113 57",
+      "city": "Stockholm"
+    },
+    "availableTimeSlots": [
+      {
+        "time": "12:00",
+        "length": "30",
+        "price": 32000
+      }
+    ],
+    "openingHours": {
+      "Monday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Tuesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Wednesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Thursday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Friday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Saturday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Sunday": {
+        "open": "09.00",
+        "closing": "19.00"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hårhuset",
+    "rating": 4,
+    "ratingQuantity": 32,
+    "phone": "08-522 389 20",
+    "website": "https://salongweb.se",
+    "description": "Lorem ipsum very long text......",
+    "backgroundImage": "./background.jpg",
+    "address": {
+      "street": "Rådmansgatan 46",
+      "postalCode": "113 57",
+      "city": "Stockholm"
+    },
+    "availableTimeSlots": [
+      {
+        "time": "12:00",
+        "length": "30",
+        "price": 32000
+      }
+    ],
+    "openingHours": {
+      "Monday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Tuesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Wednesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Thursday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Friday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Saturday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Sunday": {
+        "open": "09.00",
+        "closing": "19.00"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Hårley Davidson",
+    "rating": 4,
+    "ratingQuantity": 32,
+    "phone": "08-522 389 20",
+    "website": "https://salongweb.se",
+    "description": "Lorem ipsum very long text......",
+    "backgroundImage": "./background.jpg",
+    "address": {
+      "street": "Rådmansgatan 46",
+      "postalCode": "113 57",
+      "city": "Stockholm"
+    },
+    "availableTimeSlots": [
+      {
+        "time": "12:00",
+        "length": "30",
+        "price": 32000
+      }
+    ],
+    "openingHours": {
+      "Monday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Tuesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Wednesday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Thursday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Friday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Saturday": {
+        "open": "09.00",
+        "closing": "19.00"
+      },
+      "Sunday": {
+        "open": "09.00",
+        "closing": "19.00"
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+.SalonViewHeader {
+  height: 250px;
+  position: relative;
+}
+.TopNavBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.SalonInfoTop {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+.SalonName {
+  font-family: MillerBanner;
+  font-size: 22px;
+  font-weight: 300;
+  text-align: left;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.Rating img {
+  height: 12px;
+}
+.RatingQuantity {
+  padding-left: 4px;
+  font-size: 13px;
+  color: #ffffff;
+  font-family: HelveticaNeue-Light;
+}
+
+.Tabs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Tab {
+  width: 50%;
+  text-align: center;
+  padding: 15px;
+  border-bottom: solid 0.5px #eeeeee;
+}
+
+.SelectedTab {
+  border-bottom: solid 2px #b69f58;
+}
+
+.SalonInfo {
+  padding: 15px;
+}
+
+.SalonInfoRow {
+  border-bottom: solid 0.5px #eeeeee;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  display: flex;
+  align-items: center;
+}
+
+.SalonInfoRow img {
+  width: 12px;
+}
+
+.SalonData {
+  padding-left: 15px;
+  font-family: HelveticaNeue-Light;
+  font-size: 15px;
+  color: #202020;
+}
+.SalonDescription {
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  color: #2b2b2b;
+}
